@@ -2,3 +2,9 @@ subjects
 DPCO
 MA1
 MA2
+PS
+CN
+DAA
+FDSA
+DEV
+
