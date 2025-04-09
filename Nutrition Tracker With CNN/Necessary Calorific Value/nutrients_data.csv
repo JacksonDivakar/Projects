@@ -1,0 +1,17 @@
+age_group,age_min,age_max,calories_min,calories_max,carbs_min,carbs_max,protein_min,protein_max,fat_min,fat_max,gender
+Children,2,3,1000,1400,113,228,25,122,22,54,Male
+Children,2,3,1000,1400,113,228,25,122,22,54,Female
+Children (Boys),4,8,1200,1800,169,244,38,131,33,58,Male
+Children (Girls),4,8,1200,1600,169,244,38,131,33,58,Female
+Children (Boys),9,13,1600,2200,203,293,45,158,40,70,Male
+Children (Girls),9,13,1400,2000,203,293,45,158,40,70,Female
+Teen Boys,14,18,2000,2800,270,390,60,210,53,93,Male
+Teen Girls,14,18,1800,2200,225,325,50,175,44,78,Female
+Men,19,30,2400,3000,304,439,68,236,60,105,Male
+Men,31,50,2200,2800,281,406,63,219,56,97,Male
+Men,51,64,2000,2600,259,374,58,201,51,89,Male
+Women,19,30,1800,2400,236,341,53,184,47,82,Female
+Women,31,50,1800,2200,225,325,50,175,44,78,Female
+Women,51,64,1600,2000,203,293,45,158,40,70,Female
+Elderly Men,65,0,1800,2400,236,341,53,184,47,82,Male
+Elderly Women,65,0,1400,2000,191,276,43,149,38,66,Female
